@@ -1,0 +1,8 @@
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\bin\Debug\EngineSimulator.exe.config
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\bin\Debug\EngineSimulator.exe
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\bin\Debug\EngineSimulator.pdb
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\obj\Debug\EngineSimulator.csproj.AssemblyReference.cache
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\obj\Debug\EngineSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\obj\Debug\EngineSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\obj\Debug\EngineSimulator.exe
+C:\Users\Ray\source\repos\EngineSimulator\EngineSimulator\obj\Debug\EngineSimulator.pdb
